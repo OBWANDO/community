@@ -1,5 +1,7 @@
 # O3DE Foundation Resources
 
+[![Star History Chart](https://api.star-history.com/svg?repos=o3de/o3de&type=Date)](https://star-history.com/#o3de/o3de&Date)
+
 Foundation related resources like charters and code of conducts.
 
 ## Table of Contents
